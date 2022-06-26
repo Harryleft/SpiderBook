@@ -46,7 +46,7 @@ class SpiderWork(object):
                 return
             except Exception as e:
                 print(e)
-                print('Crawl  fali ')
+                print('Crawl  fail ')
 
 
 
